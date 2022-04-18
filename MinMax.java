@@ -1,3 +1,9 @@
+/*
+ * Write a program to input integer elements into an array of size 20 
+ * and perform the following operations: 
+ * 1. Display largest number from the array. 
+ * 2. Display smallest number from the array. 
+ */
 import java.util.Scanner;
 
 public class MinMax

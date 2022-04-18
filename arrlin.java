@@ -22,6 +22,7 @@ public class arrlin
             {
                 System.out.println(arr[i]);
                 System.out.println("Search succesful");
+                System.out.println("Index position: "+i );
                 flag = 1;
             }
         }
