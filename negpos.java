@@ -5,7 +5,7 @@
  * without changing the order of the numbers. 
  */
 import java.util.Scanner;
-class array3
+class negpos
 {
     public static void main()
     {

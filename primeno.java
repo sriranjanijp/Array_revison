@@ -3,7 +3,7 @@
  * Display the numbers which are prime. 
  */
 import java.util.Scanner;
-class array4
+class primeno
 {
     public static void main()
     {

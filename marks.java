@@ -19,7 +19,7 @@ Less than 40
 D 
  */
 import java.util.Scanner;
-class array5
+class marks
 {
     public static void main(String[] args)
     {

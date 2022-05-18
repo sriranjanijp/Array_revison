@@ -5,7 +5,7 @@
  * Hint: c = ((f - 32) / 9))* 5
  */
 import java.util.Scanner;
-class array2
+class ftoc
 {
     public static void main()
     {

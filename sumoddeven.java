@@ -4,7 +4,8 @@
  *  Calculate and display the sum of all even numbers and all odd numbers separately.
  */
 import java.util.Scanner;
-class array1
+class sumoddeven
+
 {
     public static void main()
     {
